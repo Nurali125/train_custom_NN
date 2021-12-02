@@ -6,3 +6,5 @@ https://github.com/mripard/sunxi-mali
 
 Mali Debian support
 https://wiki.debian.org/MaliGraphics
+
+https://linux-sunxi.org/Mali
