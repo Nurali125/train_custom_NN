@@ -8,3 +8,5 @@ Mali Debian support
 https://wiki.debian.org/MaliGraphics
 
 https://linux-sunxi.org/Mali
+
+Hardware acceleration methods for unix based machines https://wiki.archlinux.org/title/Hardware_video_acceleration
